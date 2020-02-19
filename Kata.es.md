@@ -2,7 +2,7 @@
 
 Hola !
 
-Eres el primer empleado de la StartUp Asturiana **PHP Containers**. Como el nombre indica, nos dedicamos a mover containers por el mundo y nuestra tecnología esta escrita en PHP.
+Eres el primer empleado de la StartUp Asturiana **Elephant Containers**. Como el nombre indica, nos dedicamos a mover containers por el mundo y nuestra tecnología esta escrita en PHP.
 
 Necesitamos empezar a ofrecer nuestros servicios lo antes posible, y por eso tu primera tarea es un cotizador de precios.
 
@@ -22,5 +22,29 @@ Para obtener precios en nuestro sistema hemos firmado acuerdos con tres carriers
  * Carrier API: Este carrier nos expone los datos en tiempo real en una API. El 93% de las veces funciona. Hemos visto que cuando usamos el parametro limit, falla siempre: En endpoint con la documentación en Swagger es:`https://carrier-api.backendlandia.tech`
  
  
+ > Es importante verificar que la fecha del precio no este expirado. En caso de que este expirado, no podemos mostrar el precio al cliente.
  
  
+ ## Servicio
+ 
+ El servicio a implementar tiene que ofrecer todas las opciones disponibles para una ruta determinada y su precio.
+ 
+ Por ejemplo
+ 
+ ```javascript
+ [
+    { 
+        "carrier":"JSON",
+        "total_price": "500",
+        "currency":"USD",
+    },
+    { 
+        "carrier":"XML",
+        "total_price": "515",
+        "currency":"USD",
+    }
+ ]
+```
+
+
+Una vez implementada la primera versión. Nos dicen de preguntar que hay un backlog con funcionalidades a añadir.

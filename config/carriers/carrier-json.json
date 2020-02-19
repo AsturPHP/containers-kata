@@ -1,0 +1,154 @@
+[
+  {
+    "origin": "esbcn",
+    "destination": "esvlc",
+    "max_date": 1583073079,
+    "price_per_container": 672.05,
+    "price_per_shipment": 29.89,
+    "currency": "$"
+  },
+  {
+    "origin": "esbcn",
+    "destination": "esmus",
+    "max_date": 1583905824,
+    "price_per_container": 4146.93,
+    "price_per_shipment": 28.07,
+    "currency": "$"
+  },
+  {
+    "origin": "esbcn",
+    "destination": "esavs",
+    "max_date": 1583195260,
+    "price_per_container": 2007.87,
+    "price_per_shipment": 34.63,
+    "currency": "$"
+  },
+  {
+    "origin": "esbcn",
+    "destination": "usmia",
+    "max_date": 1582728434,
+    "price_per_container": 1707.53,
+    "price_per_shipment": 35.9,
+    "currency": "$"
+  },
+  {
+    "origin": "esvlc",
+    "destination": "esbcn",
+    "max_date": 1583186277,
+    "price_per_container": 751.56,
+    "price_per_shipment": 45.55,
+    "currency": "$"
+  },
+  {
+    "origin": "esvlc",
+    "destination": "esmus",
+    "max_date": 1584339724,
+    "price_per_container": 2646.58,
+    "price_per_shipment": 47.52,
+    "currency": "$"
+  },
+  {
+    "origin": "esvlc",
+    "destination": "esavs",
+    "max_date": 1583894365,
+    "price_per_container": 1973.36,
+    "price_per_shipment": 23.27,
+    "currency": "$"
+  },
+  {
+    "origin": "esvlc",
+    "destination": "usmia",
+    "max_date": 1584377039,
+    "price_per_container": 4147.03,
+    "price_per_shipment": 34.89,
+    "currency": "$"
+  },
+  {
+    "origin": "esmus",
+    "destination": "esbcn",
+    "max_date": 1584445372,
+    "price_per_container": 4550.06,
+    "price_per_shipment": 34.31,
+    "currency": "$"
+  },
+  {
+    "origin": "esmus",
+    "destination": "esvlc",
+    "max_date": 1584591397,
+    "price_per_container": 1288.85,
+    "price_per_shipment": 21.84,
+    "currency": "$"
+  },
+  {
+    "origin": "esmus",
+    "destination": "esavs",
+    "max_date": 1582217853,
+    "price_per_container": 4554.83,
+    "price_per_shipment": 30.96,
+    "currency": "$"
+  },
+  {
+    "origin": "esmus",
+    "destination": "usmia",
+    "max_date": 1583265398,
+    "price_per_container": 1152.27,
+    "price_per_shipment": 21.76,
+    "currency": "$"
+  },
+  {
+    "origin": "esavs",
+    "destination": "esbcn",
+    "max_date": 1584646216,
+    "price_per_container": 2381.98,
+    "price_per_shipment": 30.6,
+    "currency": "$"
+  },
+  {
+    "origin": "esavs",
+    "destination": "esvlc",
+    "max_date": 1582891249,
+    "price_per_container": 2092.15,
+    "price_per_shipment": 44.84,
+    "currency": "$"
+  },
+  {
+    "origin": "esavs",
+    "destination": "esmus",
+    "max_date": 1582378547,
+    "price_per_container": 2811.95,
+    "price_per_shipment": 39.9,
+    "currency": "$"
+  },
+  {
+    "origin": "esavs",
+    "destination": "usmia",
+    "max_date": 1584202037,
+    "price_per_container": 3664.45,
+    "price_per_shipment": 48.66,
+    "currency": "$"
+  },
+  {
+    "origin": "usmia",
+    "destination": "esbcn",
+    "max_date": 1582393217,
+    "price_per_container": 1907.15,
+    "price_per_shipment": 48.17,
+    "currency": "$"
+  },
+  {
+    "origin": "usmia",
+    "destination": "esvlc",
+    "max_date": 1583821803,
+    "price_per_container": 4064.35,
+    "price_per_shipment": 22.41,
+    "currency": "$"
+  },
+  {
+    "origin": "usmia",
+    "destination": "esmus",
+    "max_date": 1582253358,
+    "price_per_container": 1675.15,
+    "price_per_shipment": 46.16,
+    "currency": "$"
+  }
+]
