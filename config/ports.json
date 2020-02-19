@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Barcelona",
+    "iso_code": "ESBCN",
+    "country": "ES"
+  },
+  {
+    "name":"Valencia",
+    "iso_code": "ESVCL",
+    "country": "ES"
+  },
+  {
+    "name":"Musel",
+    "iso_code": "ESMUS",
+    "country": "ES"
+  },
+  {
+    "name":"Aviles",
+    "iso_code": "ESAVS",
+    "country": "ES"
+  },
+  {
+    "name":"Florida",
+    "iso_code": "USMIA",
+    "country": "US"
+  }
+]

@@ -1,11 +1,13 @@
-# PHP Skeleton
+# Containers Kata
 
-Example of PHP Project with Composer, Namespaces, and PHPUnit ready to complete any Kata!
+Example of PHP Project with Composer, Namespaces, and PHPUnit ready to complete Containers Kata!
+
+The description of the Kata can be accessible in `Kata.es.md`
 
 
 ## Composer
 
-To execute the test, you need to install phpunit and the rest of the dependencies.
+To execute the tests, you need to install phpunit and the rest of the dependencies.
 We can archive that using composer
 
 ```php
