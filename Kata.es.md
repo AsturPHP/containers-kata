@@ -19,7 +19,7 @@ El listado de puertos disponibles esta en un fichero json en :`config/ports.json
 Para obtener precios en nuestro sistema hemos firmado acuerdos con tres carriers para utilizar sus rutas. Por desgracia, en este mundo carrier modela la información de una manera diferente y la fuente de datos es diferente:
  * Carrier XML: Este carrier nos ofrece los datos en formato XML. Una vez al mes nos los mandan por correo. Hay una copia de la última version en `config/carriers/carrier-xml.xml`
  * Carrier JSON: Este carrier nos da los datos una vez al mes, pero en JSON. La última versión esta en:`config/carriers/carrier-json.json`
- * Carrier API: Este carrier nos expone los datos en tiempo real en una API. El 93% de las veces funciona. Hemos visto que cuando usamos el parametro limit, falla siempre: En endpoint con la documentación en Swagger es:`https://carrier-api.backendlandia.tech`
+ * Carrier API: Este carrier nos expone los datos en tiempo real en una API. El 93% de las veces funciona. Hemos visto que cuando usamos el parametro limit, falla siempre: En endpoint con la documentación en Swagger es:`https://carrier-api.dokku.backendlandia.tech`
  
  
  > Es importante verificar que la fecha del precio no este expirado. En caso de que este expirado, no podemos mostrar el precio al cliente.
